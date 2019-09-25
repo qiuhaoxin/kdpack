@@ -1,0 +1,11 @@
+{
+  "name": "@haoxin_qiu/kdpack",
+  "version": "1.0.0",
+  "description": "a tool for bundle our code with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haoxin_qiu",
+  "license": "ISC"
+}
