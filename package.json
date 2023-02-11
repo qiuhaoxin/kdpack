@@ -22,7 +22,7 @@
     "portfinder": "^1.0.24",
     "requireindex": "^1.2.0",
     "strip-json-comments": "^3.0.1",
-    "update-notifier": "^3.0.1",
+    "update-notifier": "^6.0.2",
     "webpack": "^4.41.5"
   },
   "devDependencies": {
